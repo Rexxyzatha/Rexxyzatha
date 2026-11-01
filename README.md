@@ -31,10 +31,9 @@ Saya seorang mahasiswa Sistem Informasi yang berfokus pada analisis sistem, pemo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kairer1&theme=dark" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairer1&layout=compact&theme=dark&hide_border=true&include_all_commits=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rexxyzatha&theme=dark" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rexxyzatha&layout=compact&theme=dark" alt="Top Languages" width="45%" />
 </p>
-
 ---
 
 ### 📫 Hubungi Saya
