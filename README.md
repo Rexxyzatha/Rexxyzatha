@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Athaillah Asy-syifa' 👋
 
-### 🚀 Business Analyst & Web Developer
+### 🚀 Business Analyst & Junior Web Developer
 
 Saya seorang mahasiswa Sistem Informasi yang berfokus pada analisis sistem, pemodelan proses bisnis (BPMN), dan pengembangan aplikasi web.
 
