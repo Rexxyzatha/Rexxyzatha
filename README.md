@@ -31,12 +31,12 @@ Saya seorang mahasiswa Sistem Informasi yang berfokus pada analisis sistem, pemo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=radial" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rexxyzatha&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rexxyzatha&layout=compact&theme=radial" alt="Top Languages" width="45%" />
 </p>
 
 ---
 
 ### 📫 Hubungi Saya
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME_KAMU)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-athaillah-a89a20302/)
